@@ -1,21 +1,21 @@
-## Peer Review Guidelines
+## Directrices de revisión por pares
 
-You will be assigned to review the project drafts of two of your peers, and will provide them with feedback via a private group in Slack that we will set up for you.
+Se le asignará para revisar los borradores del proyecto de dos de sus pares, y les proporcionará comentarios a través de un grupo privado en Slack que nos configuraremos.
 
-Expectations:
-* Read everything they wrote!
-* If they provided their data, review it and try to understand it.
-* Read their code and try to understand their thought process.
-* If their code can be run, try running it.
-* Spend at least one hour reviewing their project (including the time it takes to write the feedback).
+Expectativas:
+* ¡Lea todo lo que escribieron!
+* Si proporcionaron sus datos, reviselos e intente entenderlos.
+* Lea su código e intente comprender su proceso de pensamiento.
+* Si se puede ejecutar su código, intente ejecutarlo.
+* Pase al menos una hora revisando su proyecto (incluido el tiempo que lleva escribir los comentarios).
 
-Your feedback would ideally consist of:
-* Strengths of their project (things you particularly like about it)
-* Comments about things you think could be improved
-* Questions about things you don't understand
-* Comments about their code
-* Links to resources or code snippets that might be useful to them
-* Suggestions for next steps
-* Guiding principle: Give feedback that would be helpful to you if it was your project!
+Sus comentarios se consistirían idealmente en:
+* Fortalezas de su proyecto (cosas que te gustan especialmente)
+* Comentarios sobre cosas que crees que podrían mejorarse
+* Preguntas sobre cosas que no entiendes
+* Comentarios sobre su código
+* Enlaces a recursos o fragmentos de código que podrían ser útiles para ellos
+* Sugerencias para los próximos pasos
+* Principio guía: ¡Dale comentarios que te serían útiles si fuera tu proyecto!
 
-You should take a quick glance through their project as soon as possible, to make sure you understand what they have given you and what files you should be reviewing. If you're unclear, ask them about it!
+Debe echar un vistazo rápido a través de su proyecto lo antes posible, para asegurarse de comprender lo que le han dado y qué archivos debe revisar.Si no tienes claro, ¡pregúnteles al respecto!
